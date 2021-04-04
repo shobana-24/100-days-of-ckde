@@ -1,5 +1,5 @@
 # 100-days-of-code
-python code 
+python code /n
 day1-day6 geeks for geeks link :https://practice.geeksforgeeks.org/batch/fork-python
 day7-day-10 hacker rank python practice link:https://www.hackerrank.com/domains/python?badge_type=python
 day11-day20 data structure geeks for geeks and hacker rank:https://www.geeksforgeeks.org/data-structures/
